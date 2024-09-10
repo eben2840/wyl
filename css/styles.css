@@ -2722,11 +2722,11 @@ td:last-child {
     display      : flex;
     align-items  : flex-start;
     margin-bottom: var(--vspace-3_5);
-    position     : relative;
+    position     : relative; 
 }
 
 .section-header .text-display-title {
-    padding-top  : 0.5em;
+    /* padding-top  : 0.1em; */
     margin-bottom: 0;
     position     : relative;
 }
@@ -2741,7 +2741,7 @@ td:last-child {
     color         : var(--color-gray-11);
     margin-right  : var(--vspace-0_5);
     position      : absolute;
-    top           : -0.25em;
+    /* top           : -0.25em; */
     left          : -0.1em;
     opacity       : 0.5;
 }
