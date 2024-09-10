@@ -3946,6 +3946,7 @@ td:last-child {
 .s-works {
     padding-top   : var(--vspace-6);
     padding-bottom: var(--vspace-1);
+    background-color: #fff;
 }
 
 .folio-entries {
